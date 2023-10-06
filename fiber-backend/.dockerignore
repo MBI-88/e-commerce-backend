@@ -1,0 +1,5 @@
+.git/
+./tests
+.gitignore
+Dockerfile
+*.md

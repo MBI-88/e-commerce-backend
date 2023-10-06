@@ -1,0 +1,1 @@
+El template de email queda delegado en el front-end
